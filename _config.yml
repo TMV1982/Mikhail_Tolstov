@@ -1,1 +1,42 @@
+# config.yml for GitHub Pages
+
+# Set the theme for GitHub Pages
+theme: minimal
+
+# Site settings
+title: "Mikhail Tolstov - Power Systems Engineer & Data Scientist"
+description: "Personal website showcasing my expertise in Smart Grid technologies, AI, and Data Science for energy systems."
+url: "https://your-github-username.github.io/your-repo-name" # Replace with your actual GitHub Pages URL
+baseurl: "" # Leave empty for root-level deployment
+
+# Enable navigation
+include:
+  - _pages
+  - assets
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Custom navigation links
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Social links (optional)
+social_links:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/mikhail-tolstov-b6733662/"
+  - name: Email
+    url: "mailto:mikhail_tolstov_pse@outlook.com"
+
 
