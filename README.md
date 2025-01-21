@@ -1,5 +1,6 @@
 # Mikhail Tolstov
-![Mikhail Tolstov](tmv.jpg)
+<img src="tmv.jpg" alt="Mikhail Tolstov" style="border-radius: 50%; width: 200px; height: 200px;">
+
 ## Power Systems Engineer & Machine Learning Engineer 
 
 Welcome to my portfolio! I specialize in **Smart Grid technologies**, **AI-driven energy solutions**, and **data analytics** with a passion for improving energy systems' efficiency, reliability, and sustainability.
