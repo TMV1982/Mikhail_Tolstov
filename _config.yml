@@ -1,4 +1,4 @@
 title: Mikhail Tolstov
 logo: tmv.jpg
 description: Power Systems Engineer
-remote_theme: pages-themes/cayman-blog@v0.2.0
+theme: jekyll-theme-minimal
