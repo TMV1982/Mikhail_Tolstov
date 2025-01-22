@@ -1,7 +1,7 @@
 ## Power Systems Engineer & Machine Learning Engineer 
 
 Welcome to my portfolio! I specialize in **Smart Grid technologies**, **AI-driven energy solutions**, and **data analytics** with a passion for improving energy systems' efficiency, reliability, and sustainability.
-![Alt text describing the image](assets/my_chart2.png)
+
 
 ---
 
