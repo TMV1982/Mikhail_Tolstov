@@ -2,4 +2,10 @@ title: Mikhail Tolstov
 # logo: tmv.jpg
 description: Power Systems Engineer & Machine Learning Engineer
 url: "https://https://github.com/TMV1982" # Replace with your actual GitHub Pages URL
+# Social links (optional)
+social_links:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/mikhail-tolstov-b6733662/"
+  - name: Email
+    url: "mailto:mikhail_tolstov_pse@outlook.com"
 theme: jekyll-theme-hacker
